@@ -1,23 +1,23 @@
 ﻿using System;
 
-namespace Factor
+namespace EvenOrOdd
 
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int a, b;
-            Console.WriteLine("Please enter your integer: ");
-            a = int.Parse(Console.ReadLine());
-            for (b = 1; b <= a; b++)
+
+            Console.WriteLine("Enter Number : ");
+            int num = int.Parse(Console.ReadLine());
+            if (num % 2 == 0)
             {
-                if (a % b == 0)
-                {
-                    Console.WriteLine(b + " is a factor of " + a);
-                }
+                Console.WriteLine("It is even number");
             }
-            Console.ReadLine();
+            else
+            {
+                Console.WriteLine("It is odd number");
+            }
         }
     }
 }
