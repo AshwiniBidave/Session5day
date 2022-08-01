@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VowelOrconstant
+namespace Hormonic
 
 {
     class Program
@@ -10,26 +10,15 @@ namespace VowelOrconstant
 
 
 
-            char ch;
 
-            Console.WriteLine("Enter any character: ");
-            ch = Convert.ToChar(Console.ReadLine());
-
-
-            // Condition for vowel checking
-            if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U')
+            double sum = 0;
+            Console.WriteLine("Enter number : ");
+            int number = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= number; i++)
             {
-
-                Console.WriteLine(ch + " is Vowel.");
-
+                sum = sum + (double)1 / i;
             }
-            else if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
-            {
-                Console.WriteLine(ch + " is Consonant.");
-            }
-
-            Console.ReadLine();
-
+            Console.WriteLine("nsum=" + sum);
         }
     }
 }
