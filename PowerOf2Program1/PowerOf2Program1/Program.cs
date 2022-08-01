@@ -1,42 +1,56 @@
 ﻿using System;
 
-namespace Among3Number
+namespace FlipCoin
 
 {
     class Program
     {
-        static void Main(string[] args)
+        public String chanceFunc()
         {
-
-            int num1, num2, num3;
-
-            Console.Write("Input the 1st number :");
-            num1 = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Input the  2nd number :");
-            num2 = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Input the 3rd  number :");
-            num3 = Convert.ToInt32(Console.ReadLine());
-
-            if (num1 > num2)
+            Random r = new Random();
+            int chance = r.Next(0, 2);
+            if (chance == 1)
             {
-                if (num1 > num3)
+                return "tails";
+            }
+            else
+            {
+                return "heads";
+            }
+        }
+    }
+
+    public class Toss
+    {
+        public static void Main(String[] args)
+        {
+            Program p = new Program();
+
+            int heads = 0;
+            int tails = 0;
+            int chances = 10;
+
+
+
+            for (int i = 1; i <= chances; i++)
+            {
+                if (p.chanceFunc().Equals("tails"))
                 {
-                    Console.Write("The 1st Number is the greatest among three. \n\n");
+                    tails++;
                 }
                 else
                 {
-                    Console.Write("The 3rd Number is the greatest among three. \n\n");
+                    heads++;
                 }
+
+
+                Console.WriteLine("Chances = " + chances);
+                Console.WriteLine("Heads: = " + heads);
+                Console.WriteLine("Tails: =" + tails);
             }
-            else if (num2 > num3)
-                Console.Write("The 2nd Number is the greatest among three \n\n");
-            else
-                Console.Write("The 3rd Number is the greatest among three \n\n");
-
-            Console.ReadLine();
-
-
         }
     }
-}
+
+}   
+
 

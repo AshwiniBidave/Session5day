@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\bin\Debug\netcoreapp3.1\FlipCoin1.exe
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\bin\Debug\netcoreapp3.1\FlipCoin1.deps.json
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\bin\Debug\netcoreapp3.1\FlipCoin1.runtimeconfig.json
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\bin\Debug\netcoreapp3.1\FlipCoin1.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\bin\Debug\netcoreapp3.1\FlipCoin1.dll
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\bin\Debug\netcoreapp3.1\FlipCoin1.pdb
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\obj\Debug\netcoreapp3.1\FlipCoin1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\obj\Debug\netcoreapp3.1\FlipCoin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\obj\Debug\netcoreapp3.1\FlipCoin1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\obj\Debug\netcoreapp3.1\FlipCoin1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\obj\Debug\netcoreapp3.1\FlipCoin1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\obj\Debug\netcoreapp3.1\FlipCoin1.dll
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\obj\Debug\netcoreapp3.1\FlipCoin1.pdb
+C:\Users\Administrator\Desktop\Session5day\FlipCoin1\FlipCoin1\obj\Debug\netcoreapp3.1\FlipCoin1.genruntimeconfig.cache

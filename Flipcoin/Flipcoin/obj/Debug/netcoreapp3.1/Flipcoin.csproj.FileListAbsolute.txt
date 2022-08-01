@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Session5day\Flipcoin\Flipcoin\obj\Debug\netcoreapp3.1\Flipcoin.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Session5day\Flipcoin\Flipcoin\obj\Debug\netcoreapp3.1\Flipcoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Session5day\Flipcoin\Flipcoin\obj\Debug\netcoreapp3.1\Flipcoin.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Session5day\Flipcoin\Flipcoin\obj\Debug\netcoreapp3.1\Flipcoin.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Session5day\Flipcoin\Flipcoin\obj\Debug\netcoreapp3.1\Flipcoin.csproj.CoreCompileInputs.cache
