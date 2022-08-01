@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\bin\Debug\netcoreapp3.1\LeaYear.exe
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\bin\Debug\netcoreapp3.1\LeaYear.deps.json
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\bin\Debug\netcoreapp3.1\LeaYear.runtimeconfig.json
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\bin\Debug\netcoreapp3.1\LeaYear.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\bin\Debug\netcoreapp3.1\LeaYear.dll
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\bin\Debug\netcoreapp3.1\LeaYear.pdb
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\obj\Debug\netcoreapp3.1\LeaYear.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\obj\Debug\netcoreapp3.1\LeaYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\obj\Debug\netcoreapp3.1\LeaYear.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\obj\Debug\netcoreapp3.1\LeaYear.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\obj\Debug\netcoreapp3.1\LeaYear.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\obj\Debug\netcoreapp3.1\LeaYear.dll
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\obj\Debug\netcoreapp3.1\LeaYear.pdb
+C:\Users\Administrator\Desktop\Session5day\LeaYear\LeaYear\obj\Debug\netcoreapp3.1\LeaYear.genruntimeconfig.cache
