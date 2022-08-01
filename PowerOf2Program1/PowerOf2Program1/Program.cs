@@ -1,24 +1,23 @@
 ﻿using System;
 
-namespace Hormonic
+namespace Factor
 
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-
-
-
-            double sum = 0;
-            Console.WriteLine("Enter number : ");
-            int number = int.Parse(Console.ReadLine());
-            for (int i = 1; i <= number; i++)
+            int a, b;
+            Console.WriteLine("Please enter your integer: ");
+            a = int.Parse(Console.ReadLine());
+            for (b = 1; b <= a; b++)
             {
-                sum = sum + (double)1 / i;
+                if (a % b == 0)
+                {
+                    Console.WriteLine(b + " is a factor of " + a);
+                }
             }
-            Console.WriteLine("nsum=" + sum);
+            Console.ReadLine();
         }
     }
 }
