@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\bin\Release\netcoreapp3.1\PowerOf2Program1.exe
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\bin\Release\netcoreapp3.1\PowerOf2Program1.deps.json
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\bin\Release\netcoreapp3.1\PowerOf2Program1.runtimeconfig.json
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\bin\Release\netcoreapp3.1\PowerOf2Program1.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\bin\Release\netcoreapp3.1\PowerOf2Program1.dll
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\bin\Release\netcoreapp3.1\PowerOf2Program1.pdb
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\obj\Release\netcoreapp3.1\PowerOf2Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\obj\Release\netcoreapp3.1\PowerOf2Program1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\obj\Release\netcoreapp3.1\PowerOf2Program1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\obj\Release\netcoreapp3.1\PowerOf2Program1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\obj\Release\netcoreapp3.1\PowerOf2Program1.dll
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\obj\Release\netcoreapp3.1\PowerOf2Program1.pdb
+C:\Users\Administrator\Desktop\Session5day\PowerOf2Program1\PowerOf2Program1\obj\Release\netcoreapp3.1\PowerOf2Program1.genruntimeconfig.cache
